@@ -5,4 +5,5 @@ sugar
 apples
 salt
 eggs
+Lemon juice
 1 cinnamon
